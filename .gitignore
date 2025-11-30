@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# UV
+uv.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python version management
+.python-version
+
+# Data and models (common in ML projects)
+*.pth
+*.pkl
+*.h5
+*.hdf5
+*.ckpt
+data/
+datasets/
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
